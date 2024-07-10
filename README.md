@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, meu nome é Matheus Mancini e estou aprendendo a programar!!
 
 <!--
 **Omni-Mancini/Omni-Mancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
